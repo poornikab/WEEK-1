@@ -1,0 +1,9 @@
+CSS- Cascading style sheet used for styling website and web-application.
+Types of Css-
+1) Inline Css
+2)Internal Css
+
+selectors-
+tag selectors
+class selectors
+Id selectors
